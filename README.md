@@ -1,5 +1,5 @@
 # BigData_Tugas2
-Tugas 2 - Exercise DB
+Tugas 2 - Exercise DB <br>
 untuk sementara laporan ada di <br>
 https://docs.google.com/document/d/1ijHYmeuvh0SnEbtHAyLuIFy7-KCgA0PrgklWKJVszHE/edit?usp=sharing <br>
 dan untuk workflows ada di <br>
